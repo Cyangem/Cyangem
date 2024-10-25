@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaxin Li</h1>
 <h3 align="center">I am a FinTech professional passionate about leveraging business intelligence and engineering to drive data-driven solutions and innovation.</h3>
 
-- 🔭 I’m currently working on [Ilya's 30 recommended papaer](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+- 🔭 I’m currently working on [Ilya's 30 recommended paper](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 
 - 🌱 I’m currently learning **RL courses**
 
