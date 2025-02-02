@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Finance**
 
-- ⚡ Fun fact **Mathematical Modeling Contest Meritorious Winner**
+- ⚡ Fun fact **I’ve crunched numbers for risk strategy, but the riskiest thing I’ve ever done? Jumping out of a plane at 13,000 feet—skydiving definitely puts risk modeling into perspective!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
